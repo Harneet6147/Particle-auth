@@ -1,0 +1,12 @@
+.connect {
+    background-color: yellow;
+    margin-top: 250px;
+    font-size: 40px;
+    border: 0.1px solid black;
+    border-radius: 1px;
+    background-color: lightblue;
+}
+
+.connect:hover {
+    background-color: pink;
+}
